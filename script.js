@@ -17,7 +17,7 @@ let view = {
 // model object taking care of initial settings, and monitoring the progress of
 // game
 let model = {
-  boardSize: 7,
+  boardSize: 6,
   numShips: 3,
   shipLength: 3,
   shipsSunk: 0,
